@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Projekt 1\MessageLibrary\bin\Debug\net8.0\MessageLibrary.deps.json
+C:\Users\user\Desktop\Projekt 1\MessageLibrary\bin\Debug\net8.0\MessageLibrary.dll
+C:\Users\user\Desktop\Projekt 1\MessageLibrary\bin\Debug\net8.0\MessageLibrary.pdb
+C:\Users\user\Desktop\Projekt 1\MessageLibrary\obj\Debug\net8.0\MessageLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Projekt 1\MessageLibrary\obj\Debug\net8.0\MessageLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Projekt 1\MessageLibrary\obj\Debug\net8.0\MessageLibrary.AssemblyInfo.cs
+C:\Users\user\Desktop\Projekt 1\MessageLibrary\obj\Debug\net8.0\MessageLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projekt 1\MessageLibrary\obj\Debug\net8.0\MessageLibrary.dll
+C:\Users\user\Desktop\Projekt 1\MessageLibrary\obj\Debug\net8.0\refint\MessageLibrary.dll
+C:\Users\user\Desktop\Projekt 1\MessageLibrary\obj\Debug\net8.0\MessageLibrary.pdb
+C:\Users\user\Desktop\Projekt 1\MessageLibrary\obj\Debug\net8.0\ref\MessageLibrary.dll
