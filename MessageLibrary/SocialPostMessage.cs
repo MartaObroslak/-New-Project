@@ -5,7 +5,7 @@ public class SocialPostMessage : Message
     // Pole przechowujące typ medium społecznościowego.
     private SocialMedium Medium;
     
-    // Słownik określający maksymalną długość wiadomości dla każdego medium.
+    // Słownik określający maksymalną długość wiadomości dla każdego komunikatora.
     private IDictionary<SocialMedium, int> MaxLengths = new Dictionary<SocialMedium, int>
     {
         { SocialMedium.Facebook, 200 },
@@ -13,13 +13,13 @@ public class SocialPostMessage : Message
         { SocialMedium.Twitter, 280 }
     };
 
-    // Konstruktor przyjmujący treść wiadomości i typ medium społecznościowego.
+    // Konstruktor przyjmujący treść wiadomości i typ komunikatora społecznościowego.
     public SocialPostMessage(string content, SocialMedium medium) : base(content)
     {
         Medium = medium;
     }
 
-    // Implementacja metody PrepareText, która obcina wiadomość do długości określonej dla danego medium.
+    // Implementacja metody PrepareText, która obcina wiadomość do długości określonej dla danego komuniktora.
     public override string PrepareText()
     {
         int maxLength = MaxLengths[Medium];
